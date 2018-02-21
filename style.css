@@ -1,0 +1,28 @@
+
+.main {
+    margin: 0px auto;
+    max-width: 1200px;
+    height: 100vh;
+    background: #222222;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+}
+.box {
+  max-width: 70%;
+}
+.fa, .fa-twitter  {
+  color:  #fff;
+  font-size: 40px;
+  padding: 20px;
+  text-decoration: none;
+}
+.trigger {
+  color: #000;
+  border: 1px solid #fff;
+  font-size: 30px;
+  text-transform: uppercase;
+  background-color: #fff;
+}
